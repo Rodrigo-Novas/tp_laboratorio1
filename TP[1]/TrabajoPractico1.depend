@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1536102246 source:d:\rodrigo\trabajopractico1\calculadora.c
+
+1536102857 source:d:\rodrigo\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+
+1536102246 d:\rodrigo\trabajopractico1\calculadora.h
+
+1633051278 source:c:\users\novasrodrigo\desktop\utn\trabajo practico 1\tp_laboratorio_1-prueba-\calculadora.c
+
+1633053943 source:c:\users\novasrodrigo\desktop\utn\trabajo practico 1\tp_laboratorio_1-prueba-\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+
+1633051278 c:\users\novasrodrigo\desktop\utn\trabajo practico 1\tp_laboratorio_1-prueba-\calculadora.h
+
